@@ -1,0 +1,10 @@
+{
+  "name": "White Lines \u2014 Lawnchair Icon Pack",
+  "version": "1.0.0",
+  "package": "com.whitelines.iconpack",
+  "unique_glyphs": 66,
+  "package_mappings": 101,
+  "asset_size": "192x192 transparent PNG",
+  "build": "Android Gradle Plugin 8.7.3; Gradle 8.9; compileSdk 35; minSdk 23",
+  "apk_status": "source project prepared; APK must be compiled with Android SDK/Gradle"
+}
